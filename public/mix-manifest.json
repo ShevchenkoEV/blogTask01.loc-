@@ -1,0 +1,10 @@
+{
+    "/assets/admin/css/admin.css": "/assets/admin/css/admin.css",
+    "/assets/admin/js/admin.js": "/assets/admin/js/admin.js",
+    "/assets/admin/css/adminlte.min.css.map": "/assets/admin/css/adminlte.min.css.map",
+    "/assets/admin/js/adminlte.min.js.map": "/assets/admin/js/adminlte.min.js.map",
+    "/assets/front/css/front.css": "/assets/front/css/front.css",
+    "/assets/front/js/front.js": "/assets/front/js/front.js",
+    "/assets/front/css/bootstrap.min.css.map": "/assets/front/css/bootstrap.min.css.map",
+    "/assets/front/js/bootstrap.bundle.min.js.map": "/assets/front/js/bootstrap.bundle.min.js.map"
+}
